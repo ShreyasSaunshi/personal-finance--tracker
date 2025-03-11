@@ -28,14 +28,16 @@ A simple and powerful personal finance tracker built with **Next.js**, designed 
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/finance-tracker.git
-   cd finance-tracker'''
+   cd finance-tracker
 
 2. Install dependencies:
+   ```bash
    npm install
    or
    yarn install
 
 3. Run the development server:
+   ```bash
    npm run dev
    or
    yarn dev
