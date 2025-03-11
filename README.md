@@ -32,12 +32,12 @@ A simple and powerful personal finance tracker built with **Next.js**, designed 
 
 2. Install dependencies:
    npm install
-   # or
+   or
    yarn install
 
 3. Run the development server:
    npm run dev
-   # or
+   or
    yarn dev
 
 Visit http://localhost:3000 in your browser to view the app.
